@@ -22,7 +22,6 @@ export default defineConfig({
         },
 
 
-
         // form
         {
           extends: 'form', // note, it's important to extend from 'form' here
