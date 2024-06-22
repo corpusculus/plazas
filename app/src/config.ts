@@ -15,9 +15,9 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Welcome to Telegram Onboarding Kit',
+          title: 'Welcome to Plazas Report',
           description:
-            "Create stunning onboarding and paywall for your Telegram Bot using the full power of Mini Apps<br><br>It's <b>simple</b>, <b>fast</b>, highly <b>customizable</b> and <a href='https://github.com/Easterok/telegram-onboarding-kit' target='_blank'>open-source</a>!",
+            "Create a personalised Report of available plazas<br><br>It's <b>simple</b>, <b>fast</b>, highly <b>customizable</b> and <a href='https://dummyjson.com/recipes' target='_blank'>dummyjson</a>!",
           button: 'Next',
         },
 
